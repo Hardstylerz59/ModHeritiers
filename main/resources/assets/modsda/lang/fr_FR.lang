@@ -1,0 +1,282 @@
+/*CreativeTab*/
+itemGroup.herbemod=Herbe / Gravier / Sable
+itemGroup.rochemod=Roches / Briques
+itemGroup.decorationmod=Bloc de decoration
+itemGroup.itemmod=Item Mod
+itemGroup.armesmod=Armes Mod
+itemGroup.mineraismod=Minerais Mod
+itemGroup.escaliermod=Escaliers Mod
+itemGroup.boismod=Bois Mod
+itemGroup.vitremod=Vitre / Verre
+itemGroup.colombagemod=Colombage Mod
+itemGroup.dallemod=Dalles Mod
+
+/*Bloc*/
+tile.vitre.name=Vitre Arc Droit
+tile.vitre2.name=Vitre Quadrillage
+tile.vitre3.name=Vitre Arc Gauche
+tile.vitre4.name=Vitre Motif
+tile.vitre5.name=Vitre Trait Quadrillage Droit
+tile.vitre6.name=Vitre Trait Quadrillage Gauche
+tile.vitre7.name=Vitre Motif Inverse
+tile.vitre8.name=Vitre Trait Quadrillage DroitBis
+tile.vitre9.name=Vitre Trait Quadrillage GaucheBis
+tile.vitre10.name=Vitre Carre Quadrillage
+
+tile.blocinvisible.name=Bloc Invisible
+
+tile.Colombage.name=Colombage Blanc Slash
+tile.Colombage2.name=Colombage Blanc Anti Slash
+tile.Colombage3.name=Colombage Blanc Croix
+tile.Colombage4.name=Colombage Blanc Circonflexe
+tile.Colombage5.name=Colombage Blanc V
+tile.Colombage6.name=Colombage Marron Slash
+tile.Colombage7.name=Colombage Marron Anti Slash
+tile.Colombage8.name=Colombage Marron Croix
+tile.Colombage9.name=Colombage Marron Circonflexe
+tile.Colombage10.name=Colombage Marron V
+tile.Colombage11.name=Colombage Clair Plus
+tile.Colombage12.name=Colombage Clair V
+tile.Colombage13.name=Colombage Clair Tube
+tile.Colombage14.name=Colombage Clair Ogive
+tile.Colombage15.name=Colombage Clair Vide
+tile.Colombage16.name=Colombage Blanc Vide
+tile.colombage17.name=Colombage Marron Vide
+tile.colombageblanc.name=Colombage Blanc
+
+tile.etagere.name=Etagere Bouteille Full
+tile.etagere1.name=Etagere Bouteille Gauche
+tile.etagere2.name=Etagere Bouteille Milieu
+tile.etagere3.name=Etagere Bouteille Droite
+
+tile.placard.name=Placard Full
+tile.placard1.name=Placard Gauche
+tile.placard2.name=Placard Milieu
+tile.placard3.name=Placard Droite
+
+tile.Biblioparchemin.name=Bibliotheque de parchemins
+tile.Biblioparchemingauche.name=Bibliotheque de parchemins gauche
+tile.Biblioparcheminmilieu.name=Bibliotheque de parchemins milieu
+tile.Biblioparchemindroite.name=Bibliotheque de parchemins droite
+
+tile.bibliothequeBis.name=Bibliotheque de livres
+tile.bibliothequeBis2.name=Bibliotheque de livres bis
+
+
+
+tile.obsidian2.name=Roche bleue
+tile.StoneBrickBis.name=
+tile.blocnoir.name=
+tile.blocnoir2.name=Roche noire
+tile.stonedark.name=Roche grise foncée
+tile.escalierstonedark.name=Escalier en roche grise foncée
+tile.stonegrey.name=Roche grise
+tile.escalierstonegrey.name=Escalier en roche grise
+tile.stonewhite.name=Roche blanche
+tile.escalierstonewhite.name=Escalier en roche blanche
+tile.roche_dale.name=Roche de Dale
+tile.escalierdale.name=Escalier en roche de Dale
+tile.obsidian.name=Pavés de Carn Dum
+tile.Netherrack.name=Braises
+tile.braise2.name=Bloc volcanique
+tile.nether_brick.name=Briques marrons
+
+/* Grès */
+tile.sandbrick.name=Grès taillé
+tile.escalierGresBis.name=Escalier en grès taillé
+
+tile.sandbrick2.name=Brique de grès foncée
+tile.escaliergres.name=Escalier en brique de grès foncée
+
+tile.sandbrick3.name=Brique de grès
+tile.escaliergres2.name=Escalier en brique de grès
+
+tile.pavesand.name=Brique de grès taillée
+tile.escaliergres3.name=Escalier en brique de grès taillée
+
+tile.pave5.name=Brique de roche grise taillée
+tile.escalierpave5.name=Escalier en brique de roche grise taillée
+
+tile.pave3.name=Grosse brique de grès taillée
+tile.stairPave3=Escalier en grosse brique de grès taillée
+
+tile.pave4.name=Grès cisellé
+tile.stairPave4=Escalier en grès cisellé
+
+tile.Orange Sandstone.name=Grès cisellé doré
+tile.Orange Sandstone Normal.name=Brique de grès dorée
+
+tile.sandrune.name=Runes de gauche
+tile.sandrune2.name=Runes de milieu
+tile.sandrune3.name=Runes de droite
+
+/* Autre */
+tile.stonebrickdark2.name=Pierre taillée foncée
+tile.escalierbrickdark2.name=Escalier en pierre taillée foncée
+
+tile.pierre_dale.name=Pierre de Dale
+tile.pave.name=Pierre taillée sombre
+tile.pave2.name=Pavé
+
+tile.brique_dale.name=Pierre taillée de Dale
+tile.escalierbriquedale.name=Escalier en pierre taillée de Dale
+
+tile.stonebrickcrackwhite.name=Pierre taillée blanche cisellée
+tile.escaliercrackbrickwhite.name=Escalier en pierre taillée blanche cisellée
+
+tile.stonebrickcrackgrey.name=Pierre taillée grise cisellée
+tile.escaliercrackbrickgrey.name=Escalier en pierre taillée grise cisellée
+
+tile.stonebrickcrackdark.name=Pierre taillée foncée cisellée
+tile.escaliercrackbrickdark.name=Escalier en pierre taillée foncée cisellée
+
+tile.stonebrickwhite.name=Pierre taillée blanche
+tile.escalierbrickwhite.name=Escalier en pierre taillée blanche
+
+tile.stonebrickdark.name=Pierre taillée foncée
+tile.escalierbrickdark.name=Escalier en pierre taillée foncée
+
+tile.stonebrickgrey.name=Pierre taillé grise
+tile.escalierbrickgrey.name=Escalier en pierre taillée grise
+
+
+tile.pierrebleu.name=Pierre taillée bleue
+tile.pierreverte.name=Pierre taillée verte
+tile.lime.name=Lime
+tile.granite.name=Granite
+tile.copperblock.name=Bloc de cuivre
+/* Minerais */
+tile.etain.name=Minerai d'étain
+tile.cuivre.name=Minerai de cuivre
+tile.electrum.name=Minerai d'électrum
+tile.mithril.name=Minerai de mithril
+tile.rubis.name=Minerai de rubis
+tile.saphir.name=Minerai de saphir
+tile.saphir2.name=Minerai de saphir
+tile.saphir3.name=Minerai de saphir
+tile.soufre.name=Minerai de souffre
+tile.zinc.name=Minerai de zinc
+tile.zinc2.name=Minerai de zinc
+
+/* Gravier */
+tile.GravierSombre.name=Gravier sombre
+tile.GravierClair.name=Gravier clair
+tile.GravierTerre.name=Gravier terre
+
+/* Terre */
+tile.TerreSombre.name=Terre sombre
+
+/* Sable */
+tile.redsand.name=Red sand
+tile.sable.name=Bloc qui fonctionne pas
+
+/* Tonneaux */
+tile.barrelCoal.name=Tonneau de charbon
+tile.barrel.name=Tonneau de poissons
+tile.barrel1.name=Tonneau de cookies
+tile.barrel2.name=Tonneau de saumons avariés
+tile.barrel3.name=Tonneau de saumon frais
+tile.barrel4.name=Tonneau de saumon
+tile.barrel5.name=Tonneau d'outils
+tile.barrel6.name=Tonneau de cartes
+tile.barrel7.name=Tonneau de pommes
+tile.barrel8.name=Tonneau de champignons
+tile.barrel9.name=Tonneau de poudre de cacao
+tile.barrel10.name=Tonneau de papiers
+
+/* Lingots */
+tile.bblocd'or.name=Lingots d'or
+tile.ironIngot.name=Lingots de fer
+
+/* Paille */
+tile.paille2.name=Bloc de paille compactée
+tile.escalierpaille.name=Escalier en paille
+
+/* Planches */
+tile.plancheacacia.name=Planches d'acacia polies
+tile.plancheoak.name=Planches de chêne polies
+tile.planchebirch.name=Planches de bouleau polies
+tile.planchejungle.name=Planches d'acajou polies
+tile.plancheoak2.name=Planches de chêne noir polies
+tile.planchespruce.name=Planches de sapin polies
+
+/* Ossements */
+tile.hellSand.name=Ossements
+
+/* Feuilles */
+tile.skyrootLeaves.name=Feuilles de cerisier
+tile.leavesSpruce.name=Feuilles Vertes
+tile.goldenOakLeaves.name=Feuiles d'or
+
+/* Piliers */
+tile.pilierBas.name=Bas du pilier
+tile.pilierMilieu.name=Milieu du pilier
+tile.pilierHaut.name=Haut du pilier
+
+/* Brique noire */
+tile.stoneBrickBis2.name=Brique noire Angmar
+tile.stoneBrickCarved.name=Brique sculptée Angmar
+tile.stoneBrickCracked.name=Brique noire craquelée Angmar
+tile.stoneBrickMossy.name=Brique noire moussue Angmar
+tile.stoneBrickSmooth.name=Brique noire Angmar 2
+tile.stoneMoss.name=Brique noire moussue Angmar 2
+tile.stairStoneBrickBis2.name=Escalier Brique noire Angmar
+tile.stairStoneBrickCracked.name=Escalier Brique noire craquelée Angmar
+tile.stairStoneBrickMossy.name=Escalier Brique noire moussue Angmar
+tile.stairStoneBrickSmooth.name=Escalier Brique noire Angmar 2
+tile.stairStoneMoss.name=Escalier Brique noire moussue Angmar 2
+tile.stairBlueStone.name
+tile.stairStoneBrickBis.name
+tile.stairBlackStone.name
+tile.stairDarkDarkGrayStone.name
+tile.stairPaveCarnDum.name
+tile.stairNetherrack.name
+tile.stairNether_brick.name
+tile.stairPave3.name
+tile.stairPave4.name
+tile.stairBlocksda2.name
+tile.stairBlocksda6.name
+tile.stairBlocksda7.name
+tile.stairStoneBrickBlue.name
+tile.stairStoneBrickGreen.name
+tile.stairLime.name=Escalier Lime
+tile.stairGranite.name=Escalier Granite
+tile.leavesMallorn.name=Feuilles de Mallorn
+
+bookshelfEmpty, bookshelf2, bookshelf3, bookshelf4, bookshelf5, bookshelf6, bookshelfBisEmpty, bookshelfBis2, bookshelfBis3, bookshelfBis4, bookshelfBis5;
+bookshelfTer, bookshelfTer2, bookshelfTer3, bookshelfTer4, bookshelfTer5, bookshelfTer6, bookshelfTer7, bookshelfTer8
+blockBird, blockBird2, blockDragon, blockDragon2, blockHorse, blockWolf;
+echec, workbench, barrelCoalBis
+b_pave2Blood, b_paveBlood, b_stonebrickdark2Blood, orange_sandstone_normalBlood, pavesandBlood, sandbrick2Blood, sandbrick3Blood, sandbrickBlood, stoneBrickBis2Blood, stonebrickbisBlood, stoneBrickCrackedBlood, stoneBrickSmoothBlood;
+dirtPodzol, driedGrass
+/*Item*/
+item.biere.name=Biere
+
+/*Armes*/
+item.casque2.name=Casque2
+item.plastron2.name=Platron2
+item.jambiere2.name=Jambiere2
+item.botte2.name=Botte2
+item.casque3.name=Casque3
+item.plastron3.name=Plastron3
+item.jambiere3.name=Jambiere3
+item.botte3.name=Botte3
+item.scimitar.name=Scimitar
+item.morningstar.name=MorningStar
+item.iron_sword.name=Epee en Fer
+item.iron_axe.name=Hache en Fer
+item.hammer.name=Hammmer
+item.falchion.name=Falchion
+item.sword_orc_gundabad.name=Epee Orc Gundabad
+item.sword_morgul.name=Epee Morgul
+item.sword_angmar.name=Epee Angmar
+item.soldat_angmar.name=Epee Angmar Soldat
+item.generaux_angmar.name=Epee Generaux Angmar
+item.axe_gundabad.name=Hache Gundabad
+item.botte.name=Botte Elfe
+item.jambiere.name=Jambiere Elfe
+item.casque.name=Casque Elfe
+item.plastron.name=Plastron Elfe
+item.dard.name=Dard
+item.hache.name=Hache Naine
+item.sword_elfe.name=Epee Elfe
